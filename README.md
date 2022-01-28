@@ -1,4 +1,4 @@
-##  Olá! Meu nome é Marcos Paulo, Desenvolvedor de Software e programador 
+##  Olá! Meu nome é Marcos Paulo, Programador!
 
 <div align = "center">
   <a href="https://github.com/Marcospaulogfk">
